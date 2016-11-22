@@ -34,7 +34,7 @@ nav a {
 }
 
 #home {
-	background: url(../../img/ethanpic001.jpg) 45% 50% repeat fixed;
+	background-color: #03A9F4;
 	background-size: cover;
 	min-height: 1000px;
 	margin: 0 auto;
@@ -47,7 +47,7 @@ nav a {
 	height: 458px;
 	position: absolute;
 	text-align: center;
-	top: 100px;
+	top: 200px;
 	width: 100%;
 	font-family: 'Lato', sans-serif;
 	font-style: italic;
@@ -478,8 +478,7 @@ nav a {
 	margin: 300px auto 0;
 	padding: 70px;
 	text-align: center;
-	font-size: 24px;
-	background-color: rgba(0,0,0,0.5);
+	font-size: 40px;
 }
 
 
